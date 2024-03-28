@@ -10,3 +10,7 @@ set of process can be acquired by `pstree`
 the PID of services.exe and PPID svchost.exe should be same
 
 cmdscan and consoles are used to get the commands entered by the user and get the output they got
+
+`procdump`,`netscan`, `filedump`, `memdump` is covered
+`imagecopy` is used to make a raw data copy of a hibernation, crash or VM core file and can be used to analyze it.
+`timeliner` is used to collect timelines 
