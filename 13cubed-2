@@ -1,0 +1,2 @@
+`lsass.exe` is process that handles password and cred related functions(it should never occur more than once)
+`_EPROCESS` block - memory structure associated with Windows processes and contains many attributes related to a process,a and points to other related data structures
