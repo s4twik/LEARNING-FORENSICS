@@ -4,3 +4,4 @@
 `malfind`-detects compromised processes
 `PAGE_EXECUTE_READWRITE` means that a portion of memory is allocated to a process but no files (sus)
 `hollowfind` similar to malfind but uses different processes
+`VAD`&`PAB` mismatch(sus)
